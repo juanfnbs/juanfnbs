@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Hi my name is **Juan**, I'm from **Argentina** and I'm a **software developer** interested in **php** and **laravel** ecosystem.
+Hi my name is **Juan**, I'm from **Argentina** and I'm a **software developer** interested in **PHP** and **Laravel** ecosystem.
 
 ## Skills
 
